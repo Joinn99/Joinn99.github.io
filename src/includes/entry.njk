@@ -1,0 +1,81 @@
+<article class="entry">
+    <div class="entry__header">
+    {% if entry.data.publication %}
+        <h4 class="entry__pub p-name">{{ entry.data.title }}</h4>
+    {% else %}
+        <h3 class="entry__title p-name">{{ entry.data.title }}</h3>
+    {% endif %}
+        
+        <p class="entry__time">
+            <time class="dt-start" datetime="{{ entry.data.start | dateToFormat("yyyy-MM-dd") }}">
+                {{ entry.data.start | dateToFormat("MM/yyyy") }}
+            </time>
+            {% if entry.data.publication %}
+            {% else %}
+                <span>&ndash;</span>
+                {% if entry.data.end %}
+                    <time class="dt-end" datetime="{{ entry.data.end | dateToFormat("yyyy-MM-dd") }}">
+                        {{ entry.data.end | dateToFormat("MM/yyyy") }}
+                    </time>
+                {% else %}
+                    <span>{{ strings.labels.present }}</span>
+                {% endif %}
+            {% endif %}
+        </p>
+
+        {% if entry.data.organization %}
+            <p class="entry__organization p-org h-card">
+                {% if entry.data.organizationUrl %}
+                    <a href="{{ entry.data.organizationUrl }}" class="p-name u-url" target="_blank" rel="noopener noreferrer">{{ entry.data.organization }}</a>
+                {% else %}
+                    <span class="p-name">{{ entry.data.organization }}</span>
+                {% endif %}
+                {% if entry.data.location %}
+                    <span aria-hidden="true">&middot;</span>
+                    <span class="p-location">{{ entry.data.location }}</span>
+                {% endif %}
+            </p>
+        {% endif %}
+
+        {% if entry.data.publication %}
+            <p class="entry__organization p-org h-card">
+                {% if entry.data.authors %}
+                    <span class="p-location">{{ entry.data.authors }}</span>
+                {% endif %}
+            </p>
+            <p class="entry__organization p-org h-card">     
+            {% if entry.data.authors %}
+                <span class="p-location"><i>{{ entry.data.booktitle }}</i></span>
+            {% endif %}
+            </p>
+            <p class="entry__organization p-org h-card">
+                {% if entry.data.repo %}
+                    <span class="p-name">
+                        <a href="https://github.com/{{ entry.data.repo }}" class="p-name u-url" target="_blank" rel="noopener noreferrer">
+                            <svg class="icon icon--${id}" role="img" aria-hidden="true" width="24" height="24">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-github"></use>
+                            </svg> <b>{{ entry.data.repo }}</b>
+                        </a>
+                {% endif %}
+                {% if entry.data.repo %}
+                <span aria-hidden="true">&middot;</span>
+                        <a href="{{ entry.data.puburl }}" class="p-name u-url" target="_blank" rel="noopener noreferrer">
+                            <svg class="icon icon--${id}" role="img" aria-hidden="true" width="24" height="24">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-pub"></use>
+                            </svg> <b>{{ entry.data.pub }}</b>
+                        </a>
+                    </span>
+                {% endif %}
+            </p>
+        {% endif %}
+
+
+
+    </div>
+
+    {% if entry.templateContent %}
+        <div class="entry__content p-summary">
+            {{ entry.templateContent | safe }}
+        </div>
+    {% endif %}
+</article>

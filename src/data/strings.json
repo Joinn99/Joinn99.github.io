@@ -1,0 +1,17 @@
+{
+    "titles": {
+        "publication": "Publications",
+        "education": "Education",
+        "awards": "Honor and Awards",
+        "skills": "Skills",
+        "languages": "Languages",
+        "open_source": "Open Source"
+    },
+    "labels": {
+        "email": "Email",
+        "telephone": "Telephone",
+        "print": "Print CV",
+        "present": "Present",
+        "lastUpdated": "Last updated"
+    }
+}
