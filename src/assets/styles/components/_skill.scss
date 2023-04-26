@@ -9,7 +9,7 @@
 
 .level-bar-inner {
     height: 1em;
-    background: $primary-color;
+    background: var(--secondary-color, $secondary-color);
 }
 
 .level-title {
