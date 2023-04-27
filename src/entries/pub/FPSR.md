@@ -5,6 +5,6 @@ authors: Tianjun Wei, Jianghong Ma, Tommy W.S. Chow
 publication: true
 start: 2023-01-26
 repo: Joinn99/FPSR
-pub: arXiv
-puburl: https://doi.org/10.48550/arXiv.2207.05959
+pub: ACM DL
+puburl: https://dl.acm.org/doi/10.1145/3543507.3583240
 ---
