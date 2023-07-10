@@ -35,6 +35,20 @@ layout: base
             {% include "entrylist.njk" %}
         </section>
 
+
+    {% if collections.service.length %}
+    {% set service = collections.service|first %}
+        <section class="section section" id="section-service">
+            {% if service.data.title %}
+                <h2 class="section__title">{{ service.data.title }}</h2>
+            {% endif %}
+            <div class="markdown">
+                {{ service.templateContent | safe }}
+            </div>
+        </section>
+    {% endif %}
+
+
     {% if author.skills %}
             <section class="section section" id="section-skills">
                 <h2 class="section__title">{{ strings.titles.skills }}</h2>
