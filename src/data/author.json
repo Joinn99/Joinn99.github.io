@@ -1,9 +1,8 @@
 {
-    "name": "Tianjun Wei",
+    "name": "卫天峻 (Tianjun Wei)",
     "occupation": "Ph.D. Candidate",
-    "location": "Kowloon, Hong Kong",
+    "location": "中国香港 九龙城区",
     "avatar": "avatar.jpg",
-    "pronouns": "he/him",
     "email": "tjwei2-c@my.cityu.edu.hk",
     "telephone": "+852-68235776",
     "skills": [
@@ -20,22 +19,12 @@
             "value": "70"
         },
         {
-            "name": "UI Design",
+            "name": "UI 设计",
             "value": "50"
         },
         {
             "name": "Sketch/Photoshop",
             "value": "60"
-        }
-    ],
-    "languages": [
-        {
-            "name": "Mandarin",
-            "level": "native"
-        },
-        {
-            "name": "English",
-            "level": "fluent"
         }
     ],
     "social": [

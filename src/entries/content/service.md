@@ -1,9 +1,9 @@
 ---
 tags: service
-title: Academic Service
+title: 学术服务
 ---
 
-#### Reviewer
+#### 审稿人
 
 * IEEE Transactions on Neural Networks and Learning Systems
 * Neural Networks

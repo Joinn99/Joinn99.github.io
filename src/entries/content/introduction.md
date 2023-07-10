@@ -1,6 +1,6 @@
 ---
 tags: introduction
-title: About Me
+title: 个人简介
 ---
 
-Hi! I am a third-year Ph.D. candidate in Electrical Engineering. My research interest is on ***Recommender System***, ***Data Mining*** and ***Metric Learning***. I am currently looking for new challenges.
+你好! 我是香港城市大学电子工程系三年级的博士研究生. 我的研究发向是 **推荐系统**, **数据挖掘** 以及 **度量学习** 等. 我正在寻找新的机遇和挑战。

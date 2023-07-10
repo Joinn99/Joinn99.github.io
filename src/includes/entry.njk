@@ -36,12 +36,12 @@
                 {% endif %}</p>
             {% if entry.data.supervisor %}
             <p class="entry__organization p-org h-card">
-                <span class="p-location"><b>Supervisor: </b><a href="{{ entry.data.supervisorUrl }}" class="p-name u-url" target="_blank" rel="noopener noreferrer">{{ entry.data.supervisor }}</a></span>
+                <span class="p-location"><b>{{ strings.labels.supervisor }}: </b><a href="{{ entry.data.supervisorUrl }}" class="p-name u-url" target="_blank" rel="noopener noreferrer">{{ entry.data.supervisor }}</a></span>
             </p>
             {% endif %}
             {% if entry.data.gpa %}
             <p class="entry__organization p-org h-card">
-                <span class="p-location"><b>GPA: </b><i>{{ entry.data.gpa }}</i></span>
+                <span class="p-location"><b>{{ strings.labels.gpa }}: </b><i>{{ entry.data.gpa }}</i></span>
             </p>
             {% endif %}
 

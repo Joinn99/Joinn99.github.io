@@ -1,8 +1,8 @@
 ---
 tags: custom
-title: Interests
+title: 兴趣
 ---
 
-* Hiking
-* Swimming (Still learning)
+* 爬山
+* 游泳 (学习中)
 * J-pop

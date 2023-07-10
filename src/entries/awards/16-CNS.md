@@ -1,6 +1,6 @@
 ---
-title: China National Scholarship 2016-17
+title: 国家奖学金 2016-17
 publication: true
 start: 2017-09-26
-authors: Ministry of Education of the People's Republic of China
+authors: 中华人民共和国教育部
 ---
