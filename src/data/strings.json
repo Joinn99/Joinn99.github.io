@@ -12,6 +12,8 @@
         "telephone": "Telephone",
         "print": "Print CV",
         "present": "Present",
-        "lastUpdated": "Last updated"
+        "lastUpdated": "Last updated",
+        "supervisor": "Supervisor",
+        "gpa": "GPA"
     }
 }
