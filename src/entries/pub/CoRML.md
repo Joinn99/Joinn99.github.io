@@ -5,6 +5,6 @@ authors: Tianjun Wei, Jianghong Ma, Tommy W.S. Chow
 publication: true
 start: 2023-04-05
 repo: Joinn99/CoRML
-pub: arXiv
-puburl: https://doi.org/10.48550/arXiv.2304.07971
+pub: ACM Digital Library
+puburl: https://dl.acm.org/doi/10.1145/3539618.3591649
 ---
