@@ -28,16 +28,6 @@ jobs:
 
     - name: Build project for GitHub Pages
       run: GITHUB_PAGES=true npm run build # Set GITHUB_PAGES env var during build
-      env:
-        # GEMINI_API_KEY is not directly required for the static build output
-        # but would be used at runtime if needed by the client-side application.
-        # For security, avoid exposing sensitive keys in public repositories
-        # unless they are meant for client-side consumption.
-        # The vite.config.ts will pick up process.env.GEMINI_API_KEY if it's defined
-        # through loadEnv. However, for a GitHub Pages deployment of a static site,
-        # it's usually managed by the client or through a separate backend.
-        # This setup assumes client-side API key management via window.aistudio or similar.
-        # No need to pass it here unless build-time API calls are made.
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
@@ -47,4 +37,3 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
-
