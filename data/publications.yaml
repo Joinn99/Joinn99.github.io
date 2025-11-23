@@ -1,3 +1,7 @@
+- title: "Reinforcement Speculative Decoding for Fast Ranking"
+  authors: Yingpeng Du, Tianjun Wei*, Zhu Sun, Jie Zhang, Xun Jiang
+  venue: SIGKDD 2026
+  link: https://arxiv.org/abs/2505.20316
 - title: "Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation"
   authors: Hongyang Liu, Zhu Sun, Tianjun Wei, Yan Wang, Jiajie Zhu, Xinghua Qu
   venue: AAAI 2026
@@ -8,10 +12,6 @@
 - title: "Diversity Recommendation via Causal Deconfounding of Co-purchase Relations and Counterfactual Exposure"
   authors: Jingmao Zhang, Zhiting Zhao, Yunqi Lin, Jianghong Ma, Tianjun Wei*, Haijun Zhang, Xiaofeng Zhang
   venue: AAAI 2026
-- title: "Reinforcement Speculative Decoding for Fast Ranking"
-  authors: Yingpeng Du, Tianjun Wei*, Zhu Sun, Jie Zhang
-  venue: arXiv 2025
-  link: https://doi.org/10.48550/arXiv.2505.20316
 - title: "Enhancing New-item Fairness in Dynamic Recommender Systems"
   authors: Huizhong Guo, Zhu Sun, Dongxia Wang, Tianjun Wei*, Jinfeng Li, Jie Zhang
   venue: SIGIR 2025
