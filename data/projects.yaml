@@ -22,7 +22,7 @@
     description: "我们将真实的推荐反馈转换为用户模拟场景，通过 LLM 构建的决策理由蒸馏训练数据，并微调轻量级、偏好对齐的 LLM 用户模拟器。"
   time: "Ongoing"
   location: "Singapore"
-  image: "https://raw.githubusercontent.com/Joinn99/RepositoryResource/ffee63e0e066c834a0612d381e5e09b53f8b5519/RocketEval.jpeg"
+  image: "https://huggingface.co/datasets/Joinn/Page/resolve/main/Thumbnails/UserMirrorer.jpeg"
   link: "https://github.com/UserMirrorer/UserMirrorer"
 - en:
     title: "RocketEval"
@@ -36,5 +36,5 @@
     description: "一种简单、可复制、可解释且准确的自动化评估方法，使用轻量级LLM作为评判者，高效地评估各种场景和问题。"
   time: "2024-2025"
   location: "Shenzhen, China"
-  image: "https://raw.githubusercontent.com/Joinn99/RepositoryResource/ffee63e0e066c834a0612d381e5e09b53f8b5519/UserMirrorer.jpeg"
+  image: "https://huggingface.co/datasets/Joinn/Page/resolve/main/Thumbnails/RocketEval.jpeg"
   link: "https://github.com/Joinn99/RocketEval-ICLR"

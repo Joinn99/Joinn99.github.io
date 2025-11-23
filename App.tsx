@@ -116,6 +116,12 @@ const App: React.FC = () => {
     loadData();
   }, [language]);
 
+  useEffect(() => {
+    if (data?.intro.name) {
+      document.title = `${data.intro.name}'s Page`;
+    }
+  }, [data]);
+
   if (error) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-50 dark:bg-gray-900 text-red-500">
