@@ -1,0 +1,30 @@
+- en:
+    name: "Research Tuition Scholarship"
+  zh:
+    name: "研究生学费奖学金"
+  time: "2023"
+  location: "City University of Hong Kong"
+- en:
+    name: "Research Tuition Scholarship"
+  zh:
+    name: "研究生学费奖学金"
+  time: "2022"
+  location: "City University of Hong Kong"
+- en:
+    name: "National Endeavor Scholarship"
+  zh:
+    name: "国家励志奖学金"
+  time: "2019"
+  location: "Ministry of Education of China"
+- en:
+    name: "National Scholarship"
+  zh:
+    name: "国家奖学金"
+  time: "2018"
+  location: "Ministry of Education of China"
+- en:
+    name: "National Scholarship"
+  zh:
+    name: "国家奖学金"
+  time: "2017"
+  location: "Ministry of Education of China"

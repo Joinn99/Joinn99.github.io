@@ -1,0 +1,5 @@
+{
+  "name": "Academic Homepage",
+  "description": "A modern, minimalist, and responsive academic homepage built with React, TypeScript, and Tailwind CSS. It supports light/dark modes, bilingual content (EN/ZH), and is data-driven from simple JSON files.",
+  "requestFramePermissions": []
+}

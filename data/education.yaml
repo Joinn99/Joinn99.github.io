@@ -1,0 +1,25 @@
+- en:
+    school: "City University of Hong Kong"
+    location: "Hong Kong SAR, China"
+    degree: "Ph.D. in Electrical Engineering"
+    advisor: "Prof. Tommy W.S. Chow"
+    area: "User Modeling, Large Language Models, Recommender Systems"
+  zh:
+    school: "香港城市大学"
+    location: "中国 香港特别行政区"
+    degree: "博士"
+    advisor: "Prof. Tommy W.S. Chow"
+    area: "用户建模、大语言模型、推荐系统"
+  time: "2020.8 - 2024.10"
+  image: "https://huggingface.co/datasets/Joinn/Page/resolve/main/Logos/CityU_Mini_Logo.svg"
+  advisorUrl: "https://www.ee.cityu.edu.hk/~twschow/"
+- en:
+    school: "Huazhong University of Science and Technology"
+    location: "Wuhan, China"
+    degree: "B.E. in Electronic and Information Engineering"
+  zh:
+    school: "华中科技大学"
+    location: "中国 武汉"
+    degree: "电子与信息工程学士"
+  time: "2016.9 - 2020.6"
+  image: "https://huggingface.co/datasets/Joinn/Page/resolve/main/Logos/HUST.svg"

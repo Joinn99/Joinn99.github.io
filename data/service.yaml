@@ -1,0 +1,63 @@
+- en:
+    occupation: "Reviewer"
+    venue: "International Conference on Learning Representations"
+  zh:
+    occupation: "审稿人"
+    venue: "International Conference on Learning Representations"
+  time: "2026-2025"
+- en:
+    occupation: "Reviewer"
+    venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+  zh:
+    occupation: "审稿人"
+    venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+  time: "2026"
+- en:
+    occupation: "Reviewer"
+    venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  zh:
+    occupation: "审稿人"
+    venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  time: "2025"
+- en:
+    occupation: "Reviewer"
+    venue: "ACM Multimedia"
+  zh:
+    occupation: "审稿人"
+    venue: "ACM Multimedia"
+  time: "2025"
+- en:
+    occupation: "Program Committee Member"
+    venue: "ACM Recommender Systems"
+  zh:
+    occupation: "审稿人"
+    venue: "ACM Recommender Systems"
+  time: "2025"
+- en:
+    occupation: "Reviewer"
+    venue: "IEEE Transactions on Neural Networks and Learning Systems"
+  zh:
+    occupation: "审稿人"
+    venue: "IEEE Transactions on Neural Networks and Learning Systems"
+  time: "2023-2025"
+- en:
+    occupation: "Reviewer"
+    venue: "IEEE Transactions on Knowledge and Data Engineering"
+  zh:
+    occupation: "审稿人"
+    venue: "IEEE Transactions on Knowledge and Data Engineering"
+  time: "2024-2025"
+- en:
+    occupation: "Reviewer"
+    venue: "IEEE Transactions on Big Data"
+  zh:
+    occupation: "审稿人"
+    venue: "IEEE Transactions on Big Data"
+  time: "2024"
+- en:
+    occupation: "Reviewer"
+    venue: "Neural Networks"
+  zh:
+    occupation: "审稿人"
+    venue: "Neural Networks"
+  time: "2023"

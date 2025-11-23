@@ -1,0 +1,16 @@
+en:
+  name: "Tianjun Wei"
+  position: "Research Fellow at Nanyang Technological University"
+  description: "*Decoding the nuances of human behavior through the lens of machine cognitive simulation. Powered by ML, I am dedicated to the odyssey of synthesizing true human-like intelligence, transforming how machines understand, mirror, and evolve with us.*"
+zh:
+  name: "卫天峻"
+  position: "南洋理工大学研究员"
+  description: "透过认知模拟的滤镜，解码人类行为。以机器学习为动力，投身于合成真正类人智能的宏大征途，以此重塑机器理解、映射并与我们共同进化的方式。"
+avatar: "https://huggingface.co/datasets/Joinn/Page/resolve/main/Avatar/Venice.jpeg"
+links:
+  github: "https://github.com/Joinn99"
+  googleScholar: "https://scholar.google.com/citations?user=HJBvNHsAAAAJ"
+  openReview: "https://openreview.net/profile?id=~Tianjun_Wei1"
+  email: "tjwei2-c@my.cityu.edu.hk"
+  linkedin: "https://www.linkedin.com/in/wei-tianjun-6545ba283/"
+  orcid: "https://orcid.org/0000-0001-7311-7101"

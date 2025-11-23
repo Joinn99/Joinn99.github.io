@@ -1,0 +1,177 @@
+
+- en:
+    location: Shek O, Hong Kong
+    time: Nov 2022
+  zh:
+    location: 石澳，香港
+    time: 2022年11月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/1.jpeg
+  coordinates: 22.229605555555555,114.25590555555556
+- en:
+    location: Luoyang, China
+    time: Mar 2023
+  zh:
+    location: 洛阳，中国
+    time: 2023年3月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/2.jpeg
+  coordinates: 34.67301944444444,112.49172222222222
+- en:
+    location: UT Austin, Austin, USA
+    time: May 2023
+  zh:
+    location: 美国奥斯汀德州大学
+    time: 2023年5月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/3.jpeg
+  coordinates: 30.283772222222225,-97.73964722222222
+- en:
+    location: Songshan Lake, Dongguan, China
+    time: Aug 2023
+  zh:
+    location: 松山湖，东莞，中国
+    time: 2023年8月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/4.jpeg
+  coordinates: 22.88026111111111,113.88358333333333
+- en:
+    location: Ngong Ping, Hong Kong
+    time: Sep 2023
+  zh:
+    location: 昂坪，香港
+    time: 2023年9月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/5.jpeg
+  coordinates: 22.25646111111111,113.90284722222223
+- en:
+    location: Shichahai, Beijing, China
+    time: Nov 2023
+  zh:
+    location: 什刹海，北京，中国
+    time: 2023年11月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/6.jpeg
+  coordinates: 39.932541666666665,116.38643611111112
+- en:
+    location: Qijin, Takao, China
+    time: Apr 2024
+  zh:
+    location: 旗津，高雄，中国
+    time: 2024年4月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/7.jpeg
+  coordinates: 22.618794444444443,120.26689999999999
+- en:
+    location: Lijiang River, Guilin, China
+    time: Jul 2024
+  zh:
+    location: 漓江，桂林，中国
+    time: 2024年7月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/8.jpeg
+  coordinates: 24.924733333333336,110.50888888888889
+- en:
+    location: Xiaolangdi, Luoyang, China
+    time: Sep 2024
+  zh:
+    location: 小浪底，洛阳，中国
+    time: 2024年9月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/9.jpeg
+  coordinates: 34.91486111111111,112.36368611111111
+- en:
+    location: Semporna, Malaysia
+    time: Nov 2024
+  zh:
+    location: 仙本那，马来西亚
+    time: 2024年11月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/10.jpeg
+  coordinates: 4.502425,118.62649444444443
+- en:
+    location: Pattaya, Thailand
+    time: Dec 2024
+  zh:
+    location: 芭堤雅，泰国
+    time: 2024年12月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/11.jpeg
+  coordinates: 12.930547222222222,100.8827361111111
+- en:
+    location: Ko Phi Phi, Thailand
+    time: Dec 2024
+  zh:
+    location: 皮皮岛，泰国
+    time: 2024年12月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/12.jpeg
+  coordinates: 7.728938888888889,98.78713888888889
+- en:
+    location: Marina Bay, Singapore
+    time: Jun 2025
+  zh:
+    location: 滨海湾，新加坡
+    time: 2025年6月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/13.jpeg
+  coordinates: 1.2844138888888887,103.85842777777778
+- en:
+    location: Lecco, Italy
+    time: Jul 2025
+  zh:
+    location: 莱科，意大利
+    time: 2025年7月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/14.jpeg
+  coordinates: 45.85093611111111,9.386769444444443
+- en:
+    location: Venice, Italy
+    time: Jul 2025
+  zh:
+    location: 威尼斯，意大利
+    time: 2025年7月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/15.jpeg
+  coordinates: 45.43145,12.33015
+- en:
+    location: Soprabolzano, Bolzano, Italy
+    time: Jul 2025
+  zh:
+    location: 上博尔扎诺，博尔扎诺，意大利
+    time: 2025年7月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/16.jpeg
+  coordinates: 46.52694722222222,11.406758333333334
+- en:
+    location: Seceda, Ortisei, Italy
+    time: Jul 2025
+  zh:
+    location: 塞切达，奥尔蒂塞伊，意大利
+    time: 2025年7月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/17.jpeg
+  coordinates: 46.60033055555556,11.726627777777779
+- en:
+    location: Daunei, Italy
+    time: Jul 2025
+  zh:
+    location: 道内伊，意大利
+    time: 2025年7月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/18.jpeg
+  coordinates: 46.56265277777778,11.753669444444444
+- en:
+    location: Sasso Lungo, Italy
+    time: Jul 2025
+  zh:
+    location: 朗格峰，意大利
+    time: 2025年7月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/19.jpeg
+  coordinates: 46.509544444444444,11.754133333333334
+- en:
+    location: Funes, Italy
+    time: Jul 2025
+  zh:
+    location: 富内斯，意大利
+    time: 2025年7月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/20.jpeg
+  coordinates: 46.64873055555555,11.715055555555555
+- en:
+    location: Bromo, Indonesia
+    time: Sep 2025
+  zh:
+    location: 布罗莫，印度尼西亚
+    time: 2025年9月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/21.jpeg
+  coordinates: -7.9259305555555555,112.9695888888889
+- en:
+    location: Bali, Indonesia
+    time: Sep 2025
+  zh:
+    location: 巴厘岛，印度尼西亚
+    time: 2025年9月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/22.jpeg
+  coordinates: -8.834083333333334,115.08715833333333

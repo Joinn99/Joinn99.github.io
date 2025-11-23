@@ -1,0 +1,18 @@
+en:
+  news: "News"
+  photos: "Gallery"
+  education: "Education"
+  experience: "Experience"
+  projects: "Projects"
+  awards: "Scholarships & Awards"
+  publications: "Publications"
+  service: "Professional Service"
+zh:
+  news: "最新动态"
+  photos: "相册"
+  education: "教育背景"
+  experience: "工作经历"
+  projects: "项目经历"
+  awards: "奖学金与荣誉"
+  publications: "学术出版"
+  service: "学术服务"

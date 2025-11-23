@@ -1,0 +1,77 @@
+- title: "Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation"
+  authors: Hongyang Liu, Zhu Sun, Tianjun Wei, Yan Wang, Jiajie Zhu, Xinghua Qu
+  venue: AAAI 2026
+  link: https://doi.org/10.48550/arXiv.2508.12645
+- title: "SGMT: Social Generating with Multiview-guided Tuning in Recommender Systems"
+  authors: Jianghong Ma, Changran He, Dezhao Yang, Tianjun Wei*, Haijun Zhang, Xiaofeng Zhang
+  venue: AAAI 2026
+- title: "Diversity Recommendation via Causal Deconfounding of Co-purchase Relations and Counterfactual Exposure"
+  authors: Jingmao Zhang, Zhiting Zhao, Yunqi Lin, Jianghong Ma, Tianjun Wei*, Haijun Zhang, Xiaofeng Zhang
+  venue: AAAI 2026
+- title: "Reinforcement Speculative Decoding for Fast Ranking"
+  authors: Yingpeng Du, Tianjun Wei*, Zhu Sun, Jie Zhang
+  venue: arXiv 2025
+  link: https://doi.org/10.48550/arXiv.2505.20316
+- title: "Enhancing New-item Fairness in Dynamic Recommender Systems"
+  authors: Huizhong Guo, Zhu Sun, Dongxia Wang, Tianjun Wei*, Jinfeng Li, Jie Zhang
+  venue: SIGIR 2025
+  link: https://doi.org/10.1145/3726302.3729969
+  code: https://github.com/Grey-z/FairAgent
+- title: "Dual-Phase Playtime-guided Recommendation: Interest Intensity Exploration and Multimodal Random Walks"
+  authors: Jingmao Zhang, Zhiting Zhao, Yunqi Lin, Jianghong Ma, Tianjun Wei*, Haijun Zhang, Xiaofeng Zhang
+  venue: ACMMM 2025
+  link: https://doi.org/10.1145/3746027.3755597
+  code: https://github.com/zqxwcevrtyui/DP2Rec
+- title: "Mirroring Users: Towards Building Preference-aligned User Simulator with User Feedback in Recommendation"
+  authors: Tianjun Wei, Huizhong Guo, Yingpeng Du, Zhu Sun, Chen Huang, Dongxia Wang, Jie Zhang
+  venue: arXiv 2025
+  link: https://doi.org/10.48550/arXiv.2508.18142
+  code: https://github.com/UserMirrorer/UserMirrorer
+  data: https://huggingface.co/datasets/MirrorUser/UserMirrorer
+- title: "LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation"
+  authors: Ziyan Wang, Yingpeng Du, Zhu Sun, Jieyi Bi, Haoyan Chua, Tianjun Wei, Jie Zhang
+  venue: arXiv 2025
+  link: https://arxiv.org/abs/2507.10917
+- title: "RocketEval: Efficient Automated LLM Evaluation via Grading Checklist"
+  authors: Tianjun Wei, Wei Wen, Ruizhi Qiao, Xing Sun, Jianghong Ma
+  venue: ICLR 2025
+  link: https://openreview.net/forum?id=zJjzNj6QUe
+  code: https://github.com/Joinn99/RocketEval-ICLR
+  data: https://huggingface.co/datasets/Joinn/RocketEval
+- title: "Correlation-Driven Explainable Recommendation With Aspect and Rating Boosted Representation Learning: A Unified Joint-Ranking Framework"
+  authors: Jianghong Ma, Rong Wang, Tianjun Wei*, Kangzhe Liu, Haijun Zhang, Xiaolei Lu
+  venue: "IEEE TSMC 2025"
+  link: https://doi.org/10.1109/TSMC.2024.3522980
+- title: "A Survey on Efficient Solutions of Large Language Models for Recommendation"
+  authors: Haotian Wu, Yingpeng Du, Zhu Sun, Tianjun Wei, Jie Zhang, Ong Yew Soon
+  venue: "2024"
+  link: https://www.techrxiv.org/doi/full/10.36227/techrxiv.173272687.73188733
+- title: "FPSR+: Toward Robust, Efficient, and Scalable Collaborative Filtering With Partition-Aware Item Similarity Modeling"
+  authors: Tianjun Wei, Tommy W. S. Chow, Jianghong Ma
+  venue: IEEE TKDE 2024
+  link: https://doi.org/10.1109/TKDE.2024.3418080
+  code: https://github.com/Joinn99/FPSR
+- title: "Collaborative Residual Metric Learning"
+  authors: Tianjun Wei, Jianghong Ma, Tommy W.S. Chow
+  venue: SIGIR 2023
+  link: https://doi.org/10.1145/3539618.3591649
+  code: https://github.com/Joinn99/CoRML
+- title: "Fine-Tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation"
+  authors: Tianjun Wei, Jianghong Ma, Tommy W. S. Chow
+  venue: WWW 2023
+  link: https://doi.org/10.1145/3543507.3583240
+  code: https://github.com/Joinn99/FPSR
+- title: "FGCR: Fused Graph Context-Aware Recommender System"
+  authors: Tianjun Wei, Tommy W. S. Chow
+  venue: Knowledge-Based Systems 2023
+  link: https://doi.org/10.1016/j.knosys.2023.110806
+- title: "ExpGCN: Review-aware Graph Convolution Network for Explainable Recommendation"
+  authors: Tianjun Wei, Tommy W. S. Chow, Jianghong Ma, Mingbo Zhao
+  venue: Neural Networks 2023
+  link: https://doi.org/10.1016/j.neunet.2022.10.014
+  code: https://github.com/Joinn99/ExpGCN
+- title: "Modeling Self-Representation Label Correlations for Textual Aspects and Emojis Recommendation"
+  authors: Tianjun Wei, Tommy W. S. Chow, Jianghong Ma
+  venue: IEEE TNNLS 2023
+  link: https://doi.org/10.1109/TNNLS.2022.3171335
+  code: https://github.com/Joinn99/CARAR
