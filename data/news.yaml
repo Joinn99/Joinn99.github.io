@@ -1,5 +1,10 @@
 - time: "Nov 2025"
   en:
+    news: "One paper is accepted by SIGKDD '26. Congratulations!"
+  zh:
+    news: "一篇论文被SIGKDD '26接收。感谢各位合作者！"
+- time: "Nov 2025"
+  en:
     news: "Three papers are accepted by AAAI '26. Congratulations!"
   zh:
     news: "三篇论文被AAAI '26接收。感谢各位合作者！"
