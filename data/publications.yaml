@@ -2,6 +2,7 @@
   authors: Yingpeng Du, Tianjun Wei*, Zhu Sun, Jie Zhang, Xun Jiang
   venue: SIGKDD 2026
   link: https://arxiv.org/abs/2505.20316
+  code: https://github.com/kk97111/RSD
 - title: "Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation"
   authors: Hongyang Liu, Zhu Sun, Tianjun Wei, Yan Wang, Jiajie Zhu, Xinghua Qu
   venue: AAAI 2026
