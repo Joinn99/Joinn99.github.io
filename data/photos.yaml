@@ -175,3 +175,20 @@
     time: 2025年9月
   url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/22.jpeg
   coordinates: -8.834083333333334,115.08715833333333
+- en:
+    location: Mesilau, Sabah, Malaysia
+    time: Dec 2025
+  zh:
+    location: 马西劳，沙巴，马来西亚
+    time: 2025年12月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/23.jpeg
+  coordinates: 6.032517,116.604920
+- en:
+    location: Kota Kinabalu, Sabah, Malaysia
+    time: Dec 2025
+  zh:
+    location: 亚庇，沙巴，马来西亚
+    time: 2025年12月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/24.jpeg
+  coordinates: 6.196267, 115.586472
+
