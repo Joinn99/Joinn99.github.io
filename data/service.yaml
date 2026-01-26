@@ -1,4 +1,18 @@
 - en:
+    occupation: "Session Chair - Recommender Systems"
+    venue: "The 40th Annual AAAI Conference on Artificial Intelligence"
+  zh:
+    occupation: "专题主席 - 推荐系统"
+    venue: "The 40th Annual AAAI Conference on Artificial Intelligence"
+  time: "2026"
+- en:
+    occupation: "Reviewer"
+    venue: "ACL Rolling Review"
+  zh:
+    occupation: "审稿人"
+    venue: "ACL Rolling Review"
+  time: "2026"
+- en:
     occupation: "Reviewer"
     venue: "International Conference on Learning Representations"
   zh:
@@ -12,6 +26,20 @@
     occupation: "审稿人"
     venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
   time: "2026"
+- en:
+    occupation: "Reviewer"
+    venue: "ACM Transactions on Information Systems"
+  zh:
+    occupation: "审稿人"
+    venue: "ACM Transactions on Information Systems"
+  time: "2025-2026"
+- en:
+    occupation: "Reviewer"
+    venue: "ACM Transactions on Knowledge Discovery from Data"
+  zh:
+    occupation: "审稿人"
+    venue: "ACM Transactions on Knowledge Discovery from Data"
+  time: "2023-2026"
 - en:
     occupation: "Reviewer"
     venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
@@ -30,7 +58,7 @@
     occupation: "Program Committee Member"
     venue: "ACM Recommender Systems"
   zh:
-    occupation: "审稿人"
+    occupation: "程序委员会成员"
     venue: "ACM Recommender Systems"
   time: "2025"
 - en:
@@ -46,7 +74,7 @@
   zh:
     occupation: "审稿人"
     venue: "IEEE Transactions on Knowledge and Data Engineering"
-  time: "2024-2025"
+  time: "2024-2026"
 - en:
     occupation: "Reviewer"
     venue: "IEEE Transactions on Big Data"
@@ -56,8 +84,29 @@
   time: "2024"
 - en:
     occupation: "Reviewer"
+    venue: "IEEE Transactions on Services Computing"
+  zh:
+    occupation: "审稿人"
+    venue: "IEEE Transactions on Services Computing"
+  time: "2023-2025"
+- en:
+    occupation: "Reviewer"
+    venue: "Knowledge-Based Systems"
+  zh:
+    occupation: "审稿人"
+    venue: "Knowledge-Based Systems"
+  time: "2023"
+- en:
+    occupation: "Reviewer"
     venue: "Neural Networks"
   zh:
     occupation: "审稿人"
     venue: "Neural Networks"
+  time: "2023"
+- en:
+    occupation: "Reviewer"
+    venue: "Neural Processing Letters"
+  zh:
+    occupation: "审稿人"
+    venue: "Neural Processing Letters"
   time: "2023"

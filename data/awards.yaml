@@ -1,8 +1,20 @@
 - en:
+    name: "Best Poster Presentation Award"
+  zh:
+    name: "最佳海报展示奖"
+  time: "2026"
+  location: "Singapore ACM SIGKDD Symposium 2026"
+- en:
     name: "Research Tuition Scholarship"
   zh:
     name: "研究生学费奖学金"
   time: "2023"
+  location: "City University of Hong Kong"
+- en:
+    name: "Outstanding Academic Performance Award for Research Degree Students"
+  zh:
+    name: "杰出研究学位学生奖"
+  time: "2022"
   location: "City University of Hong Kong"
 - en:
     name: "Research Tuition Scholarship"

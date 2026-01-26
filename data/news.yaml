@@ -1,3 +1,13 @@
+- time: "Jan 2026"
+  en:
+    news: "One paper is accepted by WWW '26. Congratulations!"
+  zh:
+    news: "一篇论文被WWW '26接收。感谢各位合作者！"
+- time: "Jan 2026"
+  en:
+    news: "Our paper 'Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation' is awarded the Best Poster Presentation Award at Singapore ACM SIGKDD Symposium 2026. Congratulations!"
+  zh:
+    news: "我们的论文 'Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation' 在新加坡ACM SIGKDD Symposium 2026 中获得最佳海报展示奖。感谢各位合作者！"
 - time: "Nov 2025"
   en:
     news: "One paper is accepted by SIGKDD '26. Congratulations!"
