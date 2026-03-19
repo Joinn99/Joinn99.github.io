@@ -1,3 +1,9 @@
+- title: "MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging"
+  authors: Tianjun Wei, Enneng Yang, Yingpeng Du, Huizhong Guo, Jie Zhang, Zhu Sun
+  venue: arXiv 2026
+  link: https://arxiv.org/abs/2601.15930
+  code: https://github.com/Joinn99/MMGRid
+  data: https://huggingface.co/MMGRid/MMGRid
 - title: "Reinforcement Speculative Decoding for Fast Ranking"
   authors: Yingpeng Du, Tianjun Wei*, Zhu Sun, Jie Zhang, Xun Jiang
   venue: SIGKDD 2026
@@ -6,13 +12,20 @@
 - title: "Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation"
   authors: Hongyang Liu, Zhu Sun, Tianjun Wei, Yan Wang, Jiajie Zhu, Xinghua Qu
   venue: AAAI 2026
-  link: https://doi.org/10.48550/arXiv.2508.12645
+  link: https://doi.org/10.1609/aaai.v40i18.38556
+  code: https://github.com/hyllll/DGDPO
 - title: "SGMT: Social Generating with Multiview-guided Tuning in Recommender Systems"
   authors: Jianghong Ma, Changran He, Dezhao Yang, Tianjun Wei*, Haijun Zhang, Xiaofeng Zhang
   venue: AAAI 2026
+  link: https://doi.org/10.1609/aaai.v40i18.38578
 - title: "Diversity Recommendation via Causal Deconfounding of Co-purchase Relations and Counterfactual Exposure"
   authors: Jingmao Zhang, Zhiting Zhao, Yunqi Lin, Jianghong Ma, Tianjun Wei*, Haijun Zhang, Xiaofeng Zhang
   venue: AAAI 2026
+  link: https://doi.org/10.1609/aaai.v40i19.38670
+- title: "Efficient Large Language Models for Recommendation: A Survey"
+  authors: Haotian Wu, Yingpeng Du, Tianjun Wei, Puay Siew Tan, Jie Zhang, Ong Yew Soon, Zhu Sun
+  venue: "2026"
+  link: https://www.techrxiv.org/users/858346/articles/1242954-efficient-large-language-models-for-recommendation-a-survey
 - title: "Enhancing New-item Fairness in Dynamic Recommender Systems"
   authors: Huizhong Guo, Zhu Sun, Dongxia Wang, Tianjun Wei*, Jinfeng Li, Jie Zhang
   venue: SIGIR 2025
@@ -43,10 +56,6 @@
   authors: Jianghong Ma, Rong Wang, Tianjun Wei*, Kangzhe Liu, Haijun Zhang, Xiaolei Lu
   venue: "IEEE TSMC 2025"
   link: https://doi.org/10.1109/TSMC.2024.3522980
-- title: "A Survey on Efficient Solutions of Large Language Models for Recommendation"
-  authors: Haotian Wu, Yingpeng Du, Zhu Sun, Tianjun Wei, Jie Zhang, Ong Yew Soon
-  venue: "2024"
-  link: https://www.techrxiv.org/doi/full/10.36227/techrxiv.173272687.73188733
 - title: "FPSR+: Toward Robust, Efficient, and Scalable Collaborative Filtering With Partition-Aware Item Similarity Modeling"
   authors: Tianjun Wei, Tommy W. S. Chow, Jianghong Ma
   venue: IEEE TKDE 2024

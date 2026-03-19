@@ -53,14 +53,14 @@
   zh:
     occupation: "审稿人"
     venue: "ACM Multimedia"
-  time: "2025"
+  time: "2025-2026"
 - en:
     occupation: "Program Committee Member"
     venue: "ACM Recommender Systems"
   zh:
     occupation: "程序委员会成员"
     venue: "ACM Recommender Systems"
-  time: "2025"
+  time: "2025-2026"
 - en:
     occupation: "Reviewer"
     venue: "IEEE Transactions on Neural Networks and Learning Systems"
@@ -88,7 +88,7 @@
   zh:
     occupation: "审稿人"
     venue: "IEEE Transactions on Services Computing"
-  time: "2023-2025"
+  time: "2023-2026"
 - en:
     occupation: "Reviewer"
     venue: "Knowledge-Based Systems"
