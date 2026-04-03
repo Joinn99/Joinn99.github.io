@@ -1,3 +1,8 @@
+- time: "Apr 2026"
+  en:
+    news: "One paper is accepted by SIGIR '26. Congratulations!"
+  zh:
+    news: "一篇论文被SIGIR '26接收。感谢各位合作者！"
 - time: "Jan 2026"
   en:
     news: "One paper is accepted by WWW '26. Congratulations!"

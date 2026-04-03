@@ -1,3 +1,7 @@
+- title: "Think When Needed: Model-Aware Reasoning Routing for LLM-based Ranking"
+  authors: Huizhong Guo*, Tianjun Wei*, Dongxia Wang, Yingpeng Du, Ziyan Wang, Jie Zhang, Zhu Sun
+  venue: SIGIR 2026
+  link: https://arxiv.org/abs/2601.18146
 - title: "MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging"
   authors: Tianjun Wei, Enneng Yang, Yingpeng Du, Huizhong Guo, Jie Zhang, Zhu Sun
   venue: arXiv 2026
