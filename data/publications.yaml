@@ -1,3 +1,12 @@
+- title: "Mirroring Users: Towards Building Preference-aligned User Simulator with User Feedback in Recommendation"
+  authors: Tianjun Wei, Huizhong Guo, Yingpeng Du, Zhu Sun, Chen Huang, Dongxia Wang, Jie Zhang
+  venue: ACL 2026 Main
+  link: https://doi.org/10.48550/arXiv.2508.18142
+  code: https://github.com/UserMirrorer/UserMirrorer
+  data: https://huggingface.co/datasets/MirrorUser/UserMirrorer
+- title: "Adaptive and Representative Multi-Interest Modeling for Recommendation with Large Language Model"
+  authors: Ziyan Wang, Yingpeng Du, Tianjun Wei, Haoyan Chua, Jieyi Bi, Jie Zhang, Zhu Sun
+  venue: ACL 2026 Findings
 - title: "Think When Needed: Model-Aware Reasoning Routing for LLM-based Ranking"
   authors: Huizhong Guo*, Tianjun Wei*, Dongxia Wang, Yingpeng Du, Ziyan Wang, Jie Zhang, Zhu Sun
   venue: SIGIR 2026
@@ -40,12 +49,6 @@
   venue: ACMMM 2025
   link: https://doi.org/10.1145/3746027.3755597
   code: https://github.com/zqxwcevrtyui/DP2Rec
-- title: "Mirroring Users: Towards Building Preference-aligned User Simulator with User Feedback in Recommendation"
-  authors: Tianjun Wei, Huizhong Guo, Yingpeng Du, Zhu Sun, Chen Huang, Dongxia Wang, Jie Zhang
-  venue: arXiv 2025
-  link: https://doi.org/10.48550/arXiv.2508.18142
-  code: https://github.com/UserMirrorer/UserMirrorer
-  data: https://huggingface.co/datasets/MirrorUser/UserMirrorer
 - title: "LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation"
   authors: Ziyan Wang, Yingpeng Du, Zhu Sun, Jieyi Bi, Haoyan Chua, Tianjun Wei, Jie Zhang
   venue: arXiv 2025
