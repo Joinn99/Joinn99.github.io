@@ -7,8 +7,9 @@
 - title: "Adaptive and Representative Multi-Interest Modeling for Recommendation with Large Language Model"
   authors: Ziyan Wang, Yingpeng Du, Tianjun Wei, Haoyan Chua, Jieyi Bi, Jie Zhang, Zhu Sun
   venue: ACL 2026 Findings
+  link: https://arxiv.org/abs/2507.10917
 - title: "Think When Needed: Model-Aware Reasoning Routing for LLM-based Ranking"
-  authors: Huizhong Guo*, Tianjun Wei*, Dongxia Wang, Yingpeng Du, Ziyan Wang, Jie Zhang, Zhu Sun
+  authors: Huizhong Guo, Tianjun Wei**, Dongxia Wang, Yingpeng Du, Ziyan Wang, Jie Zhang, Zhu Sun
   venue: SIGIR 2026
   link: https://arxiv.org/abs/2601.18146
 - title: "MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging"
@@ -37,7 +38,7 @@
   link: https://doi.org/10.1609/aaai.v40i19.38670
 - title: "Efficient Large Language Models for Recommendation: A Survey"
   authors: Haotian Wu, Yingpeng Du, Tianjun Wei, Puay Siew Tan, Jie Zhang, Ong Yew Soon, Zhu Sun
-  venue: "2026"
+  venue: "Techrxiv 2026"
   link: https://www.techrxiv.org/users/858346/articles/1242954-efficient-large-language-models-for-recommendation-a-survey
 - title: "Enhancing New-item Fairness in Dynamic Recommender Systems"
   authors: Huizhong Guo, Zhu Sun, Dongxia Wang, Tianjun Wei*, Jinfeng Li, Jie Zhang
@@ -49,10 +50,6 @@
   venue: ACMMM 2025
   link: https://doi.org/10.1145/3746027.3755597
   code: https://github.com/zqxwcevrtyui/DP2Rec
-- title: "LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation"
-  authors: Ziyan Wang, Yingpeng Du, Zhu Sun, Jieyi Bi, Haoyan Chua, Tianjun Wei, Jie Zhang
-  venue: arXiv 2025
-  link: https://arxiv.org/abs/2507.10917
 - title: "RocketEval: Efficient Automated LLM Evaluation via Grading Checklist"
   authors: Tianjun Wei, Wei Wen, Ruizhi Qiao, Xing Sun, Jianghong Ma
   venue: ICLR 2025
