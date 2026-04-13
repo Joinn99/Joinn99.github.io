@@ -12,6 +12,11 @@
   authors: Huizhong Guo, Tianjun Wei**, Dongxia Wang, Yingpeng Du, Ziyan Wang, Jie Zhang, Zhu Sun
   venue: SIGIR 2026
   link: https://arxiv.org/abs/2601.18146
+- title: "Through Their Eyes: Fixation-aligned Tuning for Personalized User Emulation"
+  authors: Lingfeng Huang, Huizhong Guo, Tianjun Wei*, Yingpeng Du, Zhu Sun
+  venue: arXiv 2026
+  link: https://arxiv.org/abs/2604.09368
+  code: https://github.com/hijack-lf/FixATE
 - title: "MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging"
   authors: Tianjun Wei, Enneng Yang, Yingpeng Du, Huizhong Guo, Jie Zhang, Zhu Sun
   venue: arXiv 2026
