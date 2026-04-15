@@ -23,6 +23,11 @@
   link: https://arxiv.org/abs/2601.15930
   code: https://github.com/Joinn99/MMGRid
   data: https://huggingface.co/MMGRid/MMGRid
+- title: "ONE-PASS: Single Forward Pass Decoding for Listwise Reranking"
+  authors: Yingpeng Du, Zhu Sun, Tianjun Wei, Jie Zhang
+  venue: WWW 2026
+  link: https://dl.acm.org/doi/abs/10.1145/3774904.3792243
+  code: https://github.com/kk97111/ONE-PASS
 - title: "Reinforcement Speculative Decoding for Fast Ranking"
   authors: Yingpeng Du, Tianjun Wei*, Zhu Sun, Jie Zhang, Xun Jiang
   venue: SIGKDD 2026
