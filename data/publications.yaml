@@ -2,8 +2,8 @@
   authors: Tianjun Wei, Huizhong Guo, Yingpeng Du, Zhu Sun, Chen Huang, Dongxia Wang, Jie Zhang
   venue: ACL 2026 Main
   link: https://doi.org/10.48550/arXiv.2508.18142
-  code: https://github.com/UserMirrorer/UserMirrorer
-  data: https://huggingface.co/datasets/MirrorUser/UserMirrorer
+  code: https://github.com/Joinn99/UserMirrorer
+  data: https://huggingface.co/datasets/Joinn/UserMirrorer
 - title: "Adaptive and Representative Multi-Interest Modeling for Recommendation with Large Language Model"
   authors: Ziyan Wang, Yingpeng Du, Tianjun Wei, Haoyan Chua, Jieyi Bi, Jie Zhang, Zhu Sun
   venue: ACL 2026 Findings
