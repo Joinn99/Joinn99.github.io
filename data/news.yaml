@@ -1,3 +1,8 @@
+- time: "May 2026"
+  en:
+    news: "One paper is accepted by KDD '26 (Cycle 2). Congratulations!"
+  zh:
+    news: "一篇论文被KDD '26接收。感谢各位合作者！"
 - time: "Apr 2026"
   en:
     news: "Two papers are accepted by ACL '26. Congratulations!"
