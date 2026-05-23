@@ -1,4 +1,6 @@
 en:
+  aboutMe: "About Me"
+  researchInterest: "Research Interest"
   news: "News"
   photos: "Gallery"
   education: "Education"
@@ -8,6 +10,8 @@ en:
   publications: "Publications"
   service: "Professional Service"
 zh:
+  aboutMe: "关于我"
+  researchInterest: "研究兴趣"
   news: "最新动态"
   photos: "相册"
   education: "教育背景"

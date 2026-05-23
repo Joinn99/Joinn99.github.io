@@ -19,6 +19,8 @@ interface IntroSectionProps {
 
 // Define the specific order to match App.tsx structure
 const ORDERED_SECTIONS = [
+    'aboutMe',
+    'researchInterest',
     'news', 
     'education', 
     'experience', 

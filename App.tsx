@@ -11,6 +11,7 @@ import AwardsSection from './components/AwardsSection';
 import PublicationsSection from './components/PublicationsSection';
 import ServiceSection from './components/ServiceSection';
 import NewsSection from './components/NewsSection';
+import MarkdownSection from './components/MarkdownSection';
 import CursorSpotlight from './components/CursorSpotlight';
 import type { AppData, Language } from './types';
 
@@ -50,6 +51,7 @@ const App: React.FC = () => {
     return {
       sectionTitles: pickLanguage(rawData.sectionTitles),
       intro: pickLanguage(rawData.intro),
+      profile: pickLanguage(rawData.profile),
       photos: ensureArray(rawData.photos).map(pickLanguage),
       education: ensureArray(rawData.education).map(pickLanguage),
       experience: ensureArray(rawData.experience).map(pickLanguage),
@@ -64,7 +66,7 @@ const App: React.FC = () => {
 
   useEffect(() => {
     const dataFiles = [
-      'sectionTitles', 'intro', 'photos', 'education', 
+      'sectionTitles', 'intro', 'profile', 'photos', 'education', 
       'experience', 'projects', 'awards', 'publications', 'service', 'news'
     ];
 
@@ -160,6 +162,8 @@ const App: React.FC = () => {
 
             {/* Right Column: Main Content */}
             <div className="w-full lg:flex-grow space-y-16 pb-24">
+              <MarkdownSection title={data.sectionTitles.aboutMe} content={data.profile.aboutMe} id="aboutMe" />
+              <MarkdownSection title={data.sectionTitles.researchInterest} content={data.profile.researchInterest} id="researchInterest" />
               <NewsSection title={data.sectionTitles.news} data={data.news} id="news" />
               <EducationSection title={data.sectionTitles.education} data={data.education} id="education" />
               <ExperienceSection title={data.sectionTitles.experience} data={data.experience} id="experience" />

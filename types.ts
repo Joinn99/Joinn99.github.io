@@ -66,6 +66,11 @@ export interface News {
   news: string;
 }
 
+export interface Profile {
+  aboutMe?: string;
+  researchInterest?: string;
+}
+
 export interface Publication {
   title: string;
   authors: string;
@@ -83,6 +88,7 @@ export interface Service {
 
 export interface AppData {
   intro: Intro;
+  profile: Profile;
   photos: Photo[];
   education: Education[];
   experience: Experience[];
@@ -92,6 +98,8 @@ export interface AppData {
   service: Service[];
   news: News[];
   sectionTitles: {
+    aboutMe: string;
+    researchInterest: string;
     photos: string;
     education: string;
     experience: string;

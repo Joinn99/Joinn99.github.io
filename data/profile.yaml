@@ -1,0 +1,41 @@
+# Fill both English and Chinese content. Values support Markdown.
+# Example:
+#   aboutMe: |
+#     Short bio paragraph...
+#   researchInterest: |
+#     - Interest area one
+#     - Interest area two
+en:
+  aboutMe: |
+    AI Researcher with a Ph.D. from the *City University of Hong Kong* (supervised by Prof. [Tommy W.S. Chow](https://scholar.google.com/citations?user=rEboT4IAAAAJ)) and currently a Postdoctoral Research Fellow at the Artificial Intelligence Lab (AIL) at *Nanyang Technological University*, working with Prof. [Jie Zhang](https://personal.ntu.edu.sg/zhangj/). Specializing in **user-side modeling and alignment** and **system-side deployment** of **classical/generative recommender systems** and **LLM user agents**, with publishing 20+ papers (including **8 first-author papers**) in top-tier venues including *ICLR*, *ACL*, *SIGIR*, *TKDE* and *WWW*. Experienced in classical machine learning and optimization algorithm design and development, LLM post-training and efficient inference design, and LLM agent model optimization and harness development.
+
+    You can find my CV [here](https://raw.githubusercontent.com/Joinn99/RepositoryResource/refs/heads/master/CV_WeiTianjun.pdf).
+  researchInterest: |
+      My research is organized along two complementary lines: *user-side modeling*, which faithfully represents users in recommender and agent systems, and *system-side deployment*, which makes LLM-based decision systems efficient and trustworthy at scale.
+
+      **User-side: modeling users faithfully.** Earlier work centered on classical user behavior modeling — context-aware and collaborative item retrieval. Current work extends to LLM-based user agent simulation and human alignment, and generative recommendation.
+      
+      Keyword: Metric learning, Model merging, LLM Post-training and Reinforcement learning.
+
+      **System-side: efficient and trustworthy decisions.** Earlier work on classical recommender efficiency and scalability through graph theory and optimization. Recent work covers the efficiency of LLM and agent system for decision making, evaluation and ranking. 
+      
+      Keyword: Optimization, Graph theory, Speculative decoding and LLM efficient inference.
+
+
+zh:
+  aboutMe: |
+    我博士毕业于 *香港城市大学*（导师为 Prof. [Tommy W.S. Chow](https://scholar.google.com/citations?user=rEboT4IAAAAJ)），目前在 *南洋理工大学* 的 Artificial Intelligence Lab (AIL) 担任博士后研究员，与 Prof. [Jie Zhang](https://personal.ntu.edu.sg/zhangj/) 合作开展研究。我的研究专注于**经典/生成式推荐系统**与 **LLM 用户智能体**中的**用户侧建模与对齐**以及**系统侧部署**，已在 *ICLR*、*ACL*、*SIGIR*、*TKDE* 和 *WWW* 等顶级学术会议/期刊发表 20 余篇论文，其中包括 **8 篇第一作者论文**。我具备经典机器学习与优化算法设计开发、LLM 后训练与高效推理设计，以及 LLM agent 模型优化与 harness 开发经验。
+
+    你可以[在此获取](https://raw.githubusercontent.com/Joinn99/RepositoryResource/refs/heads/master/CV_WeiTianjun.pdf)我的简历。
+
+  researchInterest: |
+      我的研究主要围绕两条互补主线展开：*用户侧建模*，即在推荐系统和 agent 系统中忠实刻画用户；以及*系统侧部署*，即让基于 LLM 的决策系统在规模化场景下更加高效、可信。
+
+      **用户侧：忠实建模用户。** 早期工作聚焦于经典用户行为建模，包括上下文感知与协同物品检索。当前工作进一步扩展到基于 LLM 的用户 agent 模拟与人类对齐，以及生成式推荐。
+
+      关键词：度量学习、模型融合、LLM 后训练与强化学习。
+
+      **系统侧：高效且可信的决策。** 早期工作通过图论与优化提升经典推荐系统的效率和可扩展性。近期工作覆盖面向决策、评估与排序的 LLM 和 agent 系统效率。
+
+      关键词：优化、图论、投机解码与 LLM 高效推理。
+

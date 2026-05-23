@@ -4,6 +4,7 @@ import Section from './Section';
 import LinkIcon from './icons/LinkIcon';
 import GithubIcon from './icons/GithubIcon';
 import DatabaseIcon from './icons/DatabaseIcon';
+import { useAppContext } from '../contexts/AppContext';
 import type { Publication } from '../types';
 
 interface PublicationsSectionProps {
@@ -13,8 +14,23 @@ interface PublicationsSectionProps {
 }
 
 const PublicationsSection: React.FC<PublicationsSectionProps> = ({ title, data, id }) => {
+  const { language } = useAppContext();
+
   return (
     <Section title={title} id={id}>
+      <p className="text-xs text-gray-500 dark:text-gray-400 leading-relaxed">
+        {language === 'zh' ? (
+          <>
+            <span className="font-semibold text-gray-700 dark:text-gray-300">**</span> 表示共同第一作者，
+            <span className="font-semibold text-gray-700 dark:text-gray-300">*</span> 表示通讯作者。
+          </>
+        ) : (
+          <>
+            <span className="font-semibold text-gray-700 dark:text-gray-300">**</span> denotes co-first author,{' '}
+            <span className="font-semibold text-gray-700 dark:text-gray-300">*</span> denotes corresponding author.
+          </>
+        )}
+      </p>
       {data.map((pub, index) => (
         <div 
           key={index} 

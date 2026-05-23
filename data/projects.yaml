@@ -26,12 +26,12 @@
   link: "https://github.com/Joinn99/UserMirrorer"
 - en:
     title: "RocketEval"
-    collaborators: "Tencent Youtu Lab, HIT"
+    collaborators: "Tencent Youtu Lab"
     subtitle: "Efficient LLM Automated Evaluation Framework"
     description: "A simple, replicable,interpretable, and accurate automated evaluation method that uses lightweight LLMs as judges to efficiently assess various scenarios and questions."
   zh:
     title: "RocketEval"
-    collaborators: "腾讯优图实验室，哈尔滨工业大学"
+    collaborators: "腾讯优图实验室"
     subtitle: "轻量大语言模型评测框架"
     description: "一种简单、可复制、可解释且准确的自动化评估方法，使用轻量级LLM作为评判者，高效地评估各种场景和问题。"
   time: "2024-2025"
