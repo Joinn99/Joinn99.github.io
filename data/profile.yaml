@@ -15,11 +15,11 @@ en:
 
       **User-side: modeling users faithfully.** Earlier work centered on classical user behavior modeling — context-aware and collaborative item retrieval. Current work extends to LLM-based user agent simulation and human alignment, and generative recommendation.
       
-      Keyword: Metric learning, Model merging, LLM Post-training and Reinforcement learning.
+      ***Keywords**: Metric learning, Model merging, LLM Post-training and Reinforcement learning.*
 
       **System-side: efficient and trustworthy decisions.** Earlier work on classical recommender efficiency and scalability through graph theory and optimization. Recent work covers the efficiency of LLM and agent system for decision making, evaluation and ranking. 
       
-      Keyword: Optimization, Graph theory, Speculative decoding and LLM efficient inference.
+      ***Keywords**: Optimization, Graph theory, Speculative decoding and LLM efficient inference.*
 
 
 zh:
@@ -33,9 +33,9 @@ zh:
 
       **用户侧：忠实建模用户。** 早期工作聚焦于经典用户行为建模，包括上下文感知与协同物品检索。当前工作进一步扩展到基于 LLM 的用户 agent 模拟与人类对齐，以及生成式推荐。
 
-      关键词：度量学习、模型融合、LLM 后训练与强化学习。
+      ***关键词**：度量学习、模型融合、LLM 后训练与强化学习。*
 
       **系统侧：高效且可信的决策。** 早期工作通过图论与优化提升经典推荐系统的效率和可扩展性。近期工作覆盖面向决策、评估与排序的 LLM 和 agent 系统效率。
 
-      关键词：优化、图论、投机解码与 LLM 高效推理。
+      ***关键词**：优化、图论、投机解码与 LLM 高效推理。*
 
