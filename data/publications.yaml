@@ -1,7 +1,7 @@
 - title: "Mirroring Users: Towards Building Preference-aligned User Simulator with User Feedback in Recommendation"
   authors: Tianjun Wei, Huizhong Guo, Yingpeng Du, Zhu Sun, Chen Huang, Dongxia Wang, Jie Zhang
   venue: ACL 2026 Main (Oral)
-  link: https://doi.org/10.48550/arXiv.2508.18142
+  link: https://aclanthology.org/2026.acl-long.273/
   code: https://github.com/Joinn99/UserMirrorer
   data: https://huggingface.co/datasets/Joinn/UserMirrorer
 - title: "G²PRO: Gradient-guided Graph Prompt Optimization for LLM-based POI Recommendation"
