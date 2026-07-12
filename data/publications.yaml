@@ -4,6 +4,9 @@
   link: https://aclanthology.org/2026.acl-long.273/
   code: https://github.com/Joinn99/UserMirrorer
   data: https://huggingface.co/datasets/Joinn/UserMirrorer
+- title: "Multimodal Decoupling for Diversified Recommendation through Semantic and Structural Shaping"
+  authors: Changran He, Jiaming Wei, Jianghong Ma, Tianjun Wei*, Haijun Zhang, Xiaofeng Zhang
+  venue: ACMMM 2026
 - title: "G²PRO: Gradient-guided Graph Prompt Optimization for LLM-based POI Recommendation"
   authors: Nan Jiang, Haitao Yuan, Tianjun Wei, Yingpeng Du, Jianing Si, Minxiao Chen, Jie Zhang, Zhu Sun
   venue: KDD 2026

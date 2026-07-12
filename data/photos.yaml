@@ -191,4 +191,19 @@
     time: 2025年12月
   url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/24.jpeg
   coordinates: 6.196267, 115.586472
-
+- en:
+    location: San Diego, California, USA
+    time: Jul 2026
+  zh:
+    location: 圣地亚哥，加利福尼亚州，美国
+    time: 2026年7月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/25.jpeg
+  coordinates: 32.594270, -117.322128
+- en:
+    location: San Clemente, California, USA
+    time: Jul 2026
+  zh:
+    location: 圣克利门蒂，加利福尼亚州，美国
+    time: 2026年7月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/26.jpeg
+  coordinates: 33.390350, -117.597503
