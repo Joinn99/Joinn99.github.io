@@ -1,3 +1,6 @@
+- title: "Beyond a Single Story: Meta-Reviewing Sparse and Incomplete User-generated Contents for Recommendation"
+  authors: Hongren Wang, Tianjun Wei*, Yingpeng Du, Jie Zhang, Theng yin Leng
+  venue: EMNLP 2026 Main
 - title: "Mirroring Users: Towards Building Preference-aligned User Simulator with User Feedback in Recommendation"
   authors: Tianjun Wei, Huizhong Guo, Yingpeng Du, Zhu Sun, Chen Huang, Dongxia Wang, Jie Zhang
   venue: ACL 2026 Main (Oral)
@@ -10,14 +13,16 @@
 - title: "G²PRO: Gradient-guided Graph Prompt Optimization for LLM-based POI Recommendation"
   authors: Nan Jiang, Haitao Yuan, Tianjun Wei, Yingpeng Du, Jianing Si, Minxiao Chen, Jie Zhang, Zhu Sun
   venue: KDD 2026
+  link: https://dl.acm.org/doi/10.1145/3770855.3818010
 - title: "Adaptive and Representative Multi-Interest Modeling for Recommendation with Large Language Model"
   authors: Ziyan Wang, Yingpeng Du, Tianjun Wei, Haoyan Chua, Jieyi Bi, Jie Zhang, Zhu Sun
   venue: ACL 2026 Findings
-  link: https://arxiv.org/abs/2507.10917
+  link: https://aclanthology.org/2026.findings-acl.117
 - title: "Think When Needed: Model-Aware Reasoning Routing for LLM-based Ranking"
   authors: Huizhong Guo, Tianjun Wei**, Dongxia Wang, Yingpeng Du, Ziyan Wang, Jie Zhang, Zhu Sun
   venue: SIGIR 2026
-  link: https://arxiv.org/abs/2601.18146
+  link: https://dl.acm.org/doi/10.1145/3805712.3809709
+  code: https://github.com/Grey-z/reasoning_router
 - title: "Through Their Eyes: Fixation-aligned Tuning for Personalized User Emulation"
   authors: Lingfeng Huang, Huizhong Guo, Tianjun Wei*, Yingpeng Du, Zhu Sun
   venue: arXiv 2026
@@ -37,7 +42,7 @@
 - title: "Reinforcement Speculative Decoding for Fast Ranking"
   authors: Yingpeng Du, Tianjun Wei*, Zhu Sun, Jie Zhang, Xun Jiang
   venue: SIGKDD 2026
-  link: https://arxiv.org/abs/2505.20316
+  link: https://dl.acm.org/doi/10.1145/3770854.3780197
   code: https://github.com/kk97111/RSD
 - title: "Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation"
   authors: Hongyang Liu, Zhu Sun, Tianjun Wei, Yan Wang, Jiajie Zhu, Xinghua Qu

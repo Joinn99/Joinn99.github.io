@@ -207,3 +207,19 @@
     time: 2026年7月
   url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/26.jpeg
   coordinates: 33.390350, -117.597503
+- en:
+    location: Seogwipo, Jeju, South Korea
+    time: Aug 2026
+  zh:
+    location: 西归浦，济州，韩国
+    time: 2026年8月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/27.jpeg
+  coordinates: 33.236797, 126.362817
+- en:
+    location: Udo, Jeju, South Korea
+    time: Aug 2026
+  zh:
+    location: 牛岛，济州，韩国
+    time: 2026年8月
+  url: https://huggingface.co/datasets/Joinn/Page/resolve/main/Gallery/28.jpeg
+  coordinates: 33.493130, 126.930917
